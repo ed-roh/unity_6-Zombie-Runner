@@ -12,6 +12,7 @@
 
 # Third Party Packs
 /[Aa]ssets/AssetPacks/
+/[Aa]ssets/Asset*Packs/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
